@@ -7,4 +7,4 @@
 - Ficus Benjamina, Ficus Elastica, Spathiphyllum (peace lily): 03-04-2020
 ## Future work:
 - Add more plant species
-- Build a web app (Zeit/Starlet)
+- Build a web app (Zeit/Starlet/Render)
