@@ -1,2 +1,5 @@
 *.pkl
 *.pth
+data/benjamina/
+data/elastica/
+data/lily/
