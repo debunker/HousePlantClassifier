@@ -1,8 +1,10 @@
-# HousePlantClassifier
+# House Plant Classifier
 - Scrape plant images from Bing using icrawler
-- Fast ai for train plant recognition models
+- Fast ai for training plant recognition models
 - Predictions
 
-
-Future work:
+## House plants covered
+- Ficus Benjamina, Ficus Elastica, Spathiphyllum (peace lily): 03-04-2020
+## Future work:
+- Add more plant species
 - Build a web app (Zeit/Starlet)
